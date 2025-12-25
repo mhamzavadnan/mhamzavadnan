@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Building reliable APIs, optimizing queries, and obsessing over edge cases no one asked for—turning business logic into scalable services, one endpoint at a time.</p>
+<p align="left">Building reliable APIs, optimizing queries, and obsessing over edge cases no one asked for-turning business logic into scalable services, one endpoint at a time.</p>
 
 ###
 
